@@ -1,4 +1,4 @@
-function CardContainer() {
+function CardContainer({children}) {
     return <>
         <div class="container-xxl py-5" id="feature">
             <div class="container py-5 px-lg-5">
@@ -8,8 +8,11 @@ function CardContainer() {
                 </div>
                 <div class="row g-4">
 
+                    {children}
                 </div>
             </div>
         </div>
     </>
 }
+
+export default CardContainer
