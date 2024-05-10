@@ -11,26 +11,14 @@ function About(){
                             <div class="col-sm-6 wow fadeIn" data-wow-delay="0.5s">
                                 <div class="d-flex">
                                     <i class="fa fa-cogs fa-2x text-primary-gradient flex-shrink-0 mt-1"></i>
-                                    <div class="ms-3">
-                                        <h2 class="mb-0" data-toggle="counter-up">1234</h2>
-                                        <p class="text-primary-gradient mb-0">Active Install</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 wow fadeIn" data-wow-delay="0.7s">
-                                <div class="d-flex">
-                                    <i class="fa fa-comments fa-2x text-secondary-gradient flex-shrink-0 mt-1"></i>
-                                    <div class="ms-3">
-                                        <h2 class="mb-0" data-toggle="counter-up">1234</h2>
-                                        <p class="text-secondary-gradient mb-0">Clients Reviews</p>
+                                    <div class="ms-3">                                       
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <a href="" class="btn btn-primary-gradient py-sm-3 px-4 px-sm-5 rounded-pill mt-3">Read More</a>
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="img/about.png"/>
+                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="img/image00.jpg"/>
                     </div>
                 </div>
             </div>
