@@ -2,30 +2,41 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+### What was your motivation?
+- The motivation behind building this project was to create a user-friendly and visually appealing platform that showcases the developer's skills, projects, and contact information in a structured and accessible manner.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+### Why did you build this project?
+- I built this project to solve the problem of presenting a developer's portfolio in a professional and organized way, making it easy for visitors to navigate and understand the developer's background, projects, and how to contact them.
+
+### What problem does it solve?
+- This project solves the problem of effectively presenting a developer's portfolio, ensuring that visitors can easily navigate through different sections, view projects with links to their deployment and GitHub repositories, contact the developer through a form with validation, and access the developer's resume and profiles on various platforms.
+
+### What did you learn?
+- Through this project, I learned about the importance of user experience design in creating effective portfolios, including features such as clear navigation, interactive elements like form validation, and ensuring that the content is easily accessible and well-structured.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. Go to your project directory on your command.
+2. Install the necessary dependency such as NPM.
+3. Start the development server.
+4. Start the application, then open your web browser and navigate to `http://localhost:3000`. 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+1. Explore the header.
+2. Navigate through sections(About Me, Porfolio, Contact, Resume).
+3. Explore the portfolio's content, interact with various sections and use the provided links to connect with the developer's work. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+## Screenshot
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](public/img/Screenshot00.png)
+![alt text](public/img/Screenshot01.png)
+![alt text](public/img/Screenshot02.png)
+    
 
 ## Features
 
-If your project has a lot of features, list them here.
+[Netlify](https://www.netlify.com/)
 
 ## MIT License
 
